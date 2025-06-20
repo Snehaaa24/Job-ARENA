@@ -14,6 +14,7 @@ app.use(express.json());
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+// /api/run: executes JS code and compares output
 app.post('/api/run', async (req, res) => {
   const { code, testCases } = req.body;
 
@@ -37,6 +38,21 @@ app.post('/api/run', async (req, res) => {
   }));
 
   res.json({ results });
+});
+
+// /api/scrape: runs Python script to scrape title from URL
+app.post('/api/scrape', async (req, res) => {
+  const { url } = req.body;
+  if (!url) return res.status(400).json({ error: "URL is required" });
+
+  const scriptPath = path.join(__dirname, 'scraper.py');
+
+  exec(`python "${scriptPath}" "${url}"`, (error, stdout, stderr) => {
+    if (error) {
+      return res.status(500).json({ error: stderr || error.message });
+    }
+    res.json({ title: stdout.trim() });
+  });
 });
 
 app.listen(8080, () => {

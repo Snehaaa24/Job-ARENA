@@ -1,0 +1,151 @@
+ID,Title,Difficulty,Acceptance Rate,URL
+3581,Count Odd Letters from Number,Easy,92.86,https://leetcode.com/problems/count-odd-letters-from-number/
+3571,Find the Shortest Superstring II,Easy,52.1,https://leetcode.com/problems/find-the-shortest-superstring-ii/
+3570,Find Books with No Available Copies,Easy,58.85,https://leetcode.com/problems/find-books-with-no-available-copies/
+3582,Generate Tag for Video Caption,Easy,29.7,https://leetcode.com/problems/generate-tag-for-video-caption/
+3560,Find Minimum Log Transportation Cost,Easy,41.03,https://leetcode.com/problems/find-minimum-log-transportation-cost/
+3541,Find Most Frequent Vowel and Consonant,Easy,87.53,https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
+3545,Minimum Deletions for At Most K Distinct Characters,Easy,72.33,https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/
+3550,Smallest Index With Digit Sum Equal to Index,Easy,79.76,https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+3536,Maximum Product of Two Digits,Easy,69.77,https://leetcode.com/problems/maximum-product-of-two-digits/
+3512,Minimum Operations to Make Array Sum Divisible by K,Easy,86.63,https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
+3491,Phone Number Prefix,Easy,73.5,https://leetcode.com/problems/phone-number-prefix/
+3502,Minimum Cost to Reach Every Position,Easy,82.01,https://leetcode.com/problems/minimum-cost-to-reach-every-position/
+3516,Find Closest Person,Easy,82.7,https://leetcode.com/problems/find-closest-person/
+3492,Maximum Containers on a Ship,Easy,74.49,https://leetcode.com/problems/maximum-containers-on-a-ship/
+3498,Reverse Degree of a String,Easy,87.06,https://leetcode.com/problems/reverse-degree-of-a-string/
+3465,Find Products with Valid Serial Numbers,Easy,55.51,https://leetcode.com/problems/find-products-with-valid-serial-numbers/
+3483,Unique 3-Digit Even Numbers,Easy,67.14,https://leetcode.com/problems/unique-3-digit-even-numbers/
+3477,Fruits Into Baskets II,Easy,52.65,https://leetcode.com/problems/fruits-into-baskets-ii/
+3487,Maximum Unique Subarray Sum After Deletion,Easy,27.46,https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
+3450,Maximum Students on a Single Bench,Easy,86.09,https://leetcode.com/problems/maximum-students-on-a-single-bench/
+3436,Find Valid Emails,Easy,55.01,https://leetcode.com/problems/find-valid-emails/
+3467,Transform Array by Parity,Easy,89.53,https://leetcode.com/problems/transform-array-by-parity/
+3507,Minimum Pair Removal to Sort Array I,Easy,56.04,https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
+3461,Check If Digits Are Equal in String After Operations I,Easy,77.51,https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/
+3415,Find Products with Three Consecutive Digits ,Easy,81.05,https://leetcode.com/problems/find-products-with-three-consecutive-digits/
+3442,Maximum Difference Between Even and Odd Frequency I,Easy,61.4,https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
+3423,Maximum Difference Between Adjacent Elements in a Circular Array,Easy,76.07,https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
+3438,Find Valid Pair of Adjacent Digits in String,Easy,59.49,https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/
+3427,Sum of Variable Length Subarrays,Easy,85.07,https://leetcode.com/problems/sum-of-variable-length-subarrays/
+3452,Sum of Good Numbers,Easy,69.17,https://leetcode.com/problems/sum-of-good-numbers/
+3456,Find Special Substring of Length K,Easy,35.07,https://leetcode.com/problems/find-special-substring-of-length-k/
+3417,Zigzag Grid Traversal With Skip,Easy,63.49,https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
+3471,Find the Largest Almost Missing Integer,Easy,36.67,https://leetcode.com/problems/find-the-largest-almost-missing-integer/
+3432,Count Partitions with Even Sum Difference,Easy,72.71,https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+3411,Maximum Subarray With Equal Products,Easy,45.12,https://leetcode.com/problems/maximum-subarray-with-equal-products/
+3358,Books with NULL Ratings,Easy,88.24,https://leetcode.com/problems/books-with-null-ratings/
+3353,Minimum Total Operations,Easy,63.63,https://leetcode.com/problems/minimum-total-operations/
+3402,Minimum Operations to Make Columns Strictly Increasing,Easy,71.98,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
+3392,Count Subarrays of Length Three With a Condition,Easy,61.95,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
+3407,Substring Matching Pattern,Easy,26.73,https://leetcode.com/problems/substring-matching-pattern/
+3370,Smallest Number With All Set Bits,Easy,75.79,https://leetcode.com/problems/smallest-number-with-all-set-bits/
+3396,Minimum Number of Operations to Make Elements in Array Distinct,Easy,71.57,https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
+3379,Transformed Array,Easy,56.43,https://leetcode.com/problems/transformed-array/
+3364,Minimum Positive Sum Subarray ,Easy,44.72,https://leetcode.com/problems/minimum-positive-sum-subarray/
+3340,Check Balanced String,Easy,80.74,https://leetcode.com/problems/check-balanced-string/
+3386,Button with Longest Push Time,Easy,40.59,https://leetcode.com/problems/button-with-longest-push-time/
+3345,Smallest Divisible Digit Product I,Easy,63.87,https://leetcode.com/problems/smallest-divisible-digit-product-i/
+3360,Stone Removal Game,Easy,41.57,https://leetcode.com/problems/stone-removal-game/
+3375,Minimum Operations to Make Array Values Equal to K,Easy,73.47,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/
+3330,Find the Original Typed String I,Easy,56.76,https://leetcode.com/problems/find-the-original-typed-string-i/
+3354,Make Array Elements Equal to Zero,Easy,55.54,https://leetcode.com/problems/make-array-elements-equal-to-zero/
+3349,Adjacent Increasing Subarrays Detection I,Easy,42.86,https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/
+3318,Find X-Sum of All K-Long Subarrays I,Easy,63.63,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/
+3300,Minimum Element After Replacement With Digit Sum,Easy,83.55,https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
+3314,Construct the Minimum Bitwise Array I,Easy,73.93,https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
+3304,Find the K-th Character in String Game I,Easy,73.29,https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
+3285,Find Indices of Stable Mountains,Easy,86.05,https://leetcode.com/problems/find-indices-of-stable-mountains/
+3289,The Two Sneaky Numbers of Digitville,Easy,88.35,https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+3263,Convert Doubly Linked List to Array I,Easy,95.04,https://leetcode.com/problems/convert-doubly-linked-list-to-array-i/
+3270,Find the Key of the Numbers,Easy,75.98,https://leetcode.com/problems/find-the-key-of-the-numbers/
+3280,Convert Date to Binary,Easy,88.2,https://leetcode.com/problems/convert-date-to-binary/
+3264,Final Array State After K Multiplication Operations I,Easy,87.06,https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
+3246,Premier League Table Ranking,Easy,81.61,https://leetcode.com/problems/premier-league-table-ranking/
+3274,Check if Two Chessboard Squares Have the Same Color,Easy,71.84,https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/
+3258,Count Substrings That Satisfy K-Constraint I,Easy,77.88,https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/
+3248,Snake in Matrix,Easy,81.55,https://leetcode.com/problems/snake-in-matrix/
+3238,Find the Number of Winning Players,Easy,59.74,https://leetcode.com/problems/find-the-number-of-winning-players/
+3242,Design Neighbor Sum Service,Easy,75.63,https://leetcode.com/problems/design-neighbor-sum-service/
+3232,Find if Digit Game Can Be Won,Easy,81.31,https://leetcode.com/problems/find-if-digit-game-can-be-won/
+3222,Find the Winning Player in Coin Game,Easy,51.82,https://leetcode.com/problems/find-the-winning-player-in-coin-game/
+3226,Number of Bit Changes to Make Two Integers Equal,Easy,62.62,https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/
+3199,Count Triplets with Even XOR Set Bits I,Easy,83.25,https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/
+3198,Find Cities in Each State,Easy,82.44,https://leetcode.com/problems/find-cities-in-each-state/
+3216,Lexicographically Smallest String After a Swap,Easy,53.64,https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/
+3172,Second Day Verification,Easy,68.57,https://leetcode.com/problems/second-day-verification/
+3190,Find Minimum Operations to Make All Elements Divisible by Three,Easy,88.79,https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
+3173,Bitwise OR of Adjacent Elements,Easy,95.16,https://leetcode.com/problems/bitwise-or-of-adjacent-elements/
+3194,Minimum Average of Smallest and Largest Elements,Easy,84.77,https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
+3200,Maximum Height of a Triangle,Easy,43.27,https://leetcode.com/problems/maximum-height-of-a-triangle/
+3210,Find the Encrypted String,Easy,67.88,https://leetcode.com/problems/find-the-encrypted-string/
+3206,Alternating Groups I,Easy,67.67,https://leetcode.com/problems/alternating-groups-i/
+3150,Invalid Tweets II,Easy,86.44,https://leetcode.com/problems/invalid-tweets-ii/
+3178,Find the Child Who Has the Ball After K Seconds,Easy,61.53,https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
+3174,Clear Digits,Easy,82.59,https://leetcode.com/problems/clear-digits/
+3162,Find the Number of Good Pairs I,Easy,85.64,https://leetcode.com/problems/find-the-number-of-good-pairs-i/
+3151,Special Array I,Easy,81.79,https://leetcode.com/problems/special-array-i/
+3158,Find the XOR of Numbers Which Appear Twice,Easy,77.71,https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/
+3168,Minimum Number of Chairs in a Waiting Room,Easy,78.32,https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/
+3184,Count Pairs That Form a Complete Day I,Easy,77.54,https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
+3142,Check if Grid Satisfies Conditions,Easy,43.77,https://leetcode.com/problems/check-if-grid-satisfies-conditions/
+3146,Permutation Difference between Two Strings,Easy,87.17,https://leetcode.com/problems/permutation-difference-between-two-strings/
+3120,Count the Number of Special Characters I,Easy,65.37,https://leetcode.com/problems/count-the-number-of-special-characters-i/
+3127,Make a Square with the Same Color,Easy,51.86,https://leetcode.com/problems/make-a-square-with-the-same-color/
+3131,Find the Integer Added to Array I,Easy,82.02,https://leetcode.com/problems/find-the-integer-added-to-array-i/
+3136,Valid Word,Easy,38.69,https://leetcode.com/problems/valid-word/
+3095,Shortest Subarray With OR at Least K I,Easy,42.77,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/
+3110,Score of a String,Easy,91.89,https://leetcode.com/problems/score-of-a-string/
+3105,Longest Strictly Increasing or Strictly Decreasing Subarray,Easy,65.05,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
+3099,Harshad Number,Easy,83.14,https://leetcode.com/problems/harshad-number/
+3062,Winner of the Linked List Game,Easy,78.41,https://leetcode.com/problems/winner-of-the-linked-list-game/
+3079,Find the Sum of Encrypted Integers,Easy,73.63,https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
+3059,Find All Unique Email Domains,Easy,70.47,https://leetcode.com/problems/find-all-unique-email-domains/
+3114,Latest Time You Can Obtain After Replacing Characters,Easy,34.39,https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
+3063,Linked List Frequency,Easy,85.8,https://leetcode.com/problems/linked-list-frequency/
+3083,Existence of a Substring in a String and Its Reverse,Easy,65.69,https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/
+3090,Maximum Length Substring With Two Occurrences,Easy,63.53,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
+3069,Distribute Elements Into Two Arrays I,Easy,72.96,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+3032,Count Numbers With Unique Digits II,Easy,87.02,https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
+3074,Apple Redistribution into Boxes,Easy,68.2,https://leetcode.com/problems/apple-redistribution-into-boxes/
+3065,Minimum Operations to Exceed Threshold Value I,Easy,85.97,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
+3033,Modify the Matrix,Easy,68.3,https://leetcode.com/problems/modify-the-matrix/
+3046,Split the Array,Easy,59.21,https://leetcode.com/problems/split-the-array/
+3024,Type of Triangle,Easy,44.81,https://leetcode.com/problems/type-of-triangle/
+3038,Maximum Number of Operations With the Same Score I,Easy,51.92,https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
+3019,Number of Changing Keys,Easy,79.69,https://leetcode.com/problems/number-of-changing-keys/
+3028,Ant on the Boundary,Easy,73.74,https://leetcode.com/problems/ant-on-the-boundary/
+3042,Count Prefix and Suffix Pairs I,Easy,77.68,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+2990,Loan Types,Easy,63.98,https://leetcode.com/problems/loan-types/
+2987,Find Expensive Cities,Easy,79.73,https://leetcode.com/problems/find-expensive-cities/
+2985,Calculate Compressed Mean,Easy,87.93,https://leetcode.com/problems/calculate-compressed-mean/
+3014,Minimum Number of Pushes to Type Word I,Easy,66.21,https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+3010,Divide an Array Into Subarrays With Minimum Cost I,Easy,65.77,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
+3053,Classifying Triangles by Lengths,Easy,50.95,https://leetcode.com/problems/classifying-triangles-by-lengths/
+3051,Find Candidates for Data Scientist Position,Easy,76.09,https://leetcode.com/problems/find-candidates-for-data-scientist-position/
+2970,Count the Number of Incremovable Subarrays I,Easy,54.75,https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
+3000,Maximum Area of Longest Diagonal Rectangle,Easy,36.54,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
+2980,Check if Bitwise OR Has Trailing Zeros,Easy,69.85,https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/
+3005,Count Elements With Maximum Frequency,Easy,77.93,https://leetcode.com/problems/count-elements-with-maximum-frequency/
+2996,Smallest Missing Integer Greater Than Sequential Prefix Sum,Easy,33.65,https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+2965,Find Missing and Repeated Values,Easy,83.54,https://leetcode.com/problems/find-missing-and-repeated-values/
+2974,Minimum Number Game,Easy,84.9,https://leetcode.com/problems/minimum-number-game/
+2951,Find the Peaks,Easy,74.11,https://leetcode.com/problems/find-the-peaks/
+2960,Count Tested Devices After Test Operations,Easy,78.41,https://leetcode.com/problems/count-tested-devices-after-test-operations/
+2946,Matrix Similarity After Cyclic Shifts,Easy,58.24,https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+2937,Make Three Strings Equal,Easy,43.17,https://leetcode.com/problems/make-three-strings-equal/
+2956,Find Common Elements Between Two Arrays,Easy,83.7,https://leetcode.com/problems/find-common-elements-between-two-arrays/
+2928,Distribute Candies Among Children I,Easy,74.95,https://leetcode.com/problems/distribute-candies-among-children-i/
+2942,Find Words Containing Character,Easy,90.64,https://leetcode.com/problems/find-words-containing-character/
+2932,Maximum Strong Pair XOR I,Easy,74.82,https://leetcode.com/problems/maximum-strong-pair-xor-i/
+2923,Find Champion I,Easy,72.4,https://leetcode.com/problems/find-champion-i/
+2917,Find the K-or of an Array,Easy,72.09,https://leetcode.com/problems/find-the-k-or-of-an-array/
+2908,Minimum Sum of Mountain Triplets I,Easy,65.98,https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+2894,Divisible and Non-divisible Sums Difference,Easy,91.28,https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+2903,Find Indices With Index and Value Difference I,Easy,60.24,https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/
+2899,Last Visited Integers,Easy,61.02,https://leetcode.com/problems/last-visited-integers/
+2913,Subarrays Distinct Element Sum of Squares I,Easy,79.55,https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+2853,Highest Salaries Difference,Easy,74.3,https://leetcode.com/problems/highest-salaries-difference/
+2873,Maximum Value of an Ordered Triplet I,Easy,58.3,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/
+2900,Longest Unequal Adjacent Groups Subsequence I,Easy,67.62,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/
+2837,Total Traveled Distance,Easy,77.87,https://leetcode.com/problems/total-traveled-distance/

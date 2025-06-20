@@ -1,0 +1,151 @@
+ID,Title,Difficulty,Acceptance Rate,URL
+3585,Find Weighted Median Node in Tree,Hard,20.37,https://leetcode.com/problems/find-weighted-median-node-in-tree/
+3554,Find Category Recommendation Pairs,Hard,67.67,https://leetcode.com/problems/find-category-recommendation-pairs/
+3574,Maximize Subarray GCD Score,Hard,20.37,https://leetcode.com/problems/maximize-subarray-gcd-score/
+3549,Multiply Two Polynomials,Hard,63.39,https://leetcode.com/problems/multiply-two-polynomials/
+3569,Maximize Count of Distinct Primes After Split,Hard,13.66,https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/
+3575,Maximum Good Subtree Score,Hard,43.62,https://leetcode.com/problems/maximum-good-subtree-score/
+3563,Lexicographically Smallest String After Adjacent Removals,Hard,14.23,https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/
+3579,Minimum Steps to Convert String with Operations,Hard,37.99,https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/
+3526,Range XOR Queries with Subarray Reversals,Hard,64.43,https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/
+3544,Subtree Inversion Sum,Hard,42.87,https://leetcode.com/problems/subtree-inversion-sum/
+3562,Maximum Profit from Trading Stocks with Discounts,Hard,19.58,https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/
+3553,Minimum Weighted Subgraph With the Required Paths II,Hard,48.17,https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/
+3534,Path Existence Queries in a Graph II,Hard,22.2,https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
+3539,Find Sum of Array Product of Magical Sequences,Hard,22.51,https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/
+3548,Equal Sum Grid Partition II,Hard,19.3,https://leetcode.com/problems/equal-sum-grid-partition-ii/
+3547,Maximum Sum of Edge Values in a Graph,Hard,32.45,https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/
+3559,Number of Ways to Assign Edge Weights II,Hard,62.09,https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/
+3533,Concatenated Divisibility,Hard,25.72,https://leetcode.com/problems/concatenated-divisibility/
+3525,Find X Value of Array II,Hard,27.44,https://leetcode.com/problems/find-x-value-of-array-ii/
+3538,Merge Operations for Minimum Travel Time,Hard,27.43,https://leetcode.com/problems/merge-operations-for-minimum-travel-time/
+3515,Shortest Path in a Weighted Tree,Hard,32.18,https://leetcode.com/problems/shortest-path-in-a-weighted-tree/
+3482,Analyze Organization Hierarchy,Hard,59.23,https://leetcode.com/problems/analyze-organization-hierarchy/
+3530,Maximum Profit from Valid Topological Order in DAG,Hard,26.95,https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/
+3506,Find Time Required to Eliminate Bacterial Strains,Hard,54.84,https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains/
+3518,Smallest Palindromic Rearrangement II,Hard,12.22,https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/
+3519,Count Numbers with Non-Decreasing Digits ,Hard,34.09,https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/
+3504,Longest Palindrome After Substring Concatenation II,Hard,15.83,https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/
+3501,Maximize Active Section with Trade II,Hard,19.47,https://leetcode.com/problems/maximize-active-section-with-trade-ii/
+3490,Count Beautiful Numbers,Hard,21.02,https://leetcode.com/problems/count-beautiful-numbers/
+3486,Longest Special Path II,Hard,16.65,https://leetcode.com/problems/longest-special-path-ii/
+3451,Find Invalid IP Addresses,Hard,55.81,https://leetcode.com/problems/find-invalid-ip-addresses/
+3480,Maximize Subarrays After Removing One Conflicting Pair,Hard,32.46,https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/
+3485,Longest Common Prefix of K Strings After Removal,Hard,20.3,https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
+3470,Permutations IV,Hard,28.14,https://leetcode.com/problems/permutations-iv/
+3464,Maximize the Distance Between Points on a Square,Hard,19.12,https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/
+3509,Maximum Product of Subsequences With an Alternating Sum Equal to K,Hard,11.12,https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/
+3454,Separate Squares II,Hard,19.09,https://leetcode.com/problems/separate-squares-ii/
+3463,Check If Digits Are Equal in String After Operations II,Hard,10.5,https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/
+3510,Minimum Pair Removal to Sort Array II,Hard,13.69,https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/
+3474,Lexicographically Smallest Generated String,Hard,29.66,https://leetcode.com/problems/lexicographically-smallest-generated-string/
+3500,Minimum Cost to Divide Array Into Subarrays,Hard,23.09,https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/
+3449,Maximize the Minimum Game Score,Hard,25.06,https://leetcode.com/problems/maximize-the-minimum-game-score/
+3445,Maximum Difference Between Even and Odd Frequency II,Hard,49.3,https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/
+3416,Subsequences with a Unique Middle Mode II,Hard,43.91,https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/
+3406,Find the Lexicographically Largest String From the Box II,Hard,48.65,https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/
+3401,Find Circular Gift Exchange Chains,Hard,53.93,https://leetcode.com/problems/find-circular-gift-exchange-chains/
+3495,Minimum Operations to Make Array Elements Zero,Hard,31.76,https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/
+3426,Manhattan Distances of All Arrangements of Pieces,Hard,32.99,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/
+3459,Length of Longest V-Shaped Diagonal Segment,Hard,33.69,https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/
+3390,Longest Team Pass Streak,Hard,41.85,https://leetcode.com/problems/longest-team-pass-streak/
+3430,Maximum and Minimum Sums of at Most Size K Subarrays,Hard,22.56,https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/
+3384,Team Dominance by Pass Success,Hard,77.1,https://leetcode.com/problems/team-dominance-by-pass-success/
+3383,Minimum Runes to Add to Cast Spell,Hard,42.59,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/
+3505,Minimum Operations to Make Elements Within K Subarrays Equal,Hard,27.39,https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
+3435,Frequencies of Shortest Supersequences,Hard,15.75,https://leetcode.com/problems/frequencies-of-shortest-supersequences/
+3374,First Letter Capitalization II,Hard,74.77,https://leetcode.com/problems/first-letter-capitalization-ii/
+3369,Design an Array Statistics Tracker ,Hard,34.51,https://leetcode.com/problems/design-an-array-statistics-tracker/
+3399,Smallest Substring With Identical Characters II,Hard,40.58,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/
+3368,First Letter Capitalization,Hard,86.54,https://leetcode.com/problems/first-letter-capitalization/
+3441,Minimum Cost Good Caption,Hard,19.01,https://leetcode.com/problems/minimum-cost-good-caption/
+3395,Subsequences with a Unique Middle Mode I,Hard,17.17,https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/
+3444,Minimum Increments for Target Multiples in an Array,Hard,25.63,https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/
+3448,Count Substrings Divisible By Last Digit,Hard,20.91,https://leetcode.com/problems/count-substrings-divisible-by-last-digit/
+3385,Minimum Time to Break Locks II,Hard,42.7,https://leetcode.com/problems/minimum-time-to-break-locks-ii/
+3455,Shortest Matching Substring,Hard,22.01,https://leetcode.com/problems/shortest-matching-substring/
+3398,Smallest Substring With Identical Characters I,Hard,19.26,https://leetcode.com/problems/smallest-substring-with-identical-characters-i/
+3382,Maximum Area Rectangle With Point Constraints II,Hard,20.62,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/
+3410,Maximize Subarray Sum After Removing All Occurrences of One Element,Hard,19.84,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/
+3425,Longest Special Path,Hard,20.03,https://leetcode.com/problems/longest-special-path/
+3405,Count the Number of Arrays with K Matching Adjacent Elements,Hard,58.75,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/
+3378,Count Connected Components in LCM Graph,Hard,28.27,https://leetcode.com/problems/count-connected-components-in-lcm-graph/
+3367,Maximize Sum of Weights after Edge Removals,Hard,29.11,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/
+3420,Count Non-Decreasing Subarrays After K Operations,Hard,21.02,https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+3357,Minimize the Maximum Adjacent Element Difference,Hard,16.37,https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/
+3359,Find Sorted Submatrices With Maximum Element at Most K,Hard,49.73,https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/
+3363,Find the Maximum Number of Fruits Collected,Hard,39.71,https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/
+3351,Sum of Good Subsequences,Hard,29.69,https://leetcode.com/problems/sum-of-good-subsequences/
+3373,Maximize the Number of Target Nodes After Connecting Trees II,Hard,73.17,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/
+3347,Maximum Frequency of an Element After Performing Operations II,Hard,37.29,https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/
+3389,Minimum Operations to Make Character Frequencies Equal,Hard,24.98,https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/
+3343,Count Number of Balanced Permutations,Hard,49.47,https://leetcode.com/problems/count-number-of-balanced-permutations/
+3348,Smallest Divisible Digit Product II,Hard,10.53,https://leetcode.com/problems/smallest-divisible-digit-product-ii/
+3352,Count K-Reducible Numbers Less Than N,Hard,25.09,https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/
+3337,Total Characters in String After Transformations II,Hard,58.21,https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/
+3299,Sum of Consecutive Subsequences,Hard,40.15,https://leetcode.com/problems/sum-of-consecutive-subsequences/
+3333,Find the Original Typed String II,Hard,14.89,https://leetcode.com/problems/find-the-original-typed-string-ii/
+3336,Find the Number of Subsequences With Equal GCD,Hard,28.81,https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/
+3317,Find the Number of Possible Ways for an Event,Hard,33.13,https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/
+3327,Check if DFS Strings Are Palindromes,Hard,17.94,https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/
+3307,Find the K-th Character in String Game II,Hard,27.13,https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/
+3321,Find X-Sum of All K-Long Subarrays II,Hard,16.01,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/
+3279,Maximum Total Area Occupied by Pistons,Hard,51.39,https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/
+3320,Count The Number of Winning Sequences,Hard,31.13,https://leetcode.com/problems/count-the-number-of-winning-sequences/
+3269,Constructing Two Increasing Arrays,Hard,62.48,https://leetcode.com/problems/constructing-two-increasing-arrays/
+3268,Find Overlapping Shifts II,Hard,59.45,https://leetcode.com/problems/find-overlapping-shifts-ii/
+3312,Sorted GCD Pair Queries,Hard,19.8,https://leetcode.com/problems/sorted-gcd-pair-queries/
+3303,Find the Occurrence of First Almost Equal Substring,Hard,13.89,https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/
+3311,Construct 2D Grid Matching Graph Layout,Hard,27.78,https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/
+3287,Find the Maximum Sequence Value of Array,Hard,18.68,https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/
+3298,Count Substrings That Can Be Rearranged to Contain a String II,Hard,55.37,https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/
+3288,Length of the Longest Increasing Path,Hard,17.07,https://leetcode.com/problems/length-of-the-longest-increasing-path/
+3276,Select Cells in Grid With Maximum Score,Hard,14.45,https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/
+3414,Maximum Score of Non-overlapping Intervals,Hard,30.65,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
+3283,Maximum Number of Moves to Kill All Pawns,Hard,32.18,https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/
+3292,Minimum Number of Valid Strings to Form Target II,Hard,18.37,https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/
+3266,Final Array State After K Multiplication Operations II,Hard,11.81,https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/
+3260,Find the Largest Palindrome Divisible by K,Hard,15.37,https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/
+3277,Maximum XOR Score Subarray Queries,Hard,42.11,https://leetcode.com/problems/maximum-xor-score-subarray-queries/
+3256,Maximum Value Sum by Placing Three Rooks I,Hard,15.24,https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/
+3236,CEO Subordinate Hierarchy,Hard,73.12,https://leetcode.com/problems/ceo-subordinate-hierarchy/
+3272,Find the Count of Good Integers,Hard,69.69,https://leetcode.com/problems/find-the-count-of-good-integers/
+3261,Count Substrings That Satisfy K-Constraint II,Hard,21.51,https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/
+3231,Minimum Number of Increasing Subsequence to Be Removed,Hard,43.37,https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/
+3267,Count Almost Equal Pairs II,Hard,26.83,https://leetcode.com/problems/count-almost-equal-pairs-ii/
+3257,Maximum Value Sum by Placing Three Rooks II,Hard,26.43,https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/
+3251,Find the Count of Monotonic Pairs II,Hard,23.0,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/
+3250,Find the Count of Monotonic Pairs I,Hard,46.42,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/
+3241,Time Taken to Mark All Nodes,Hard,24.81,https://leetcode.com/problems/time-taken-to-mark-all-nodes/
+3273,Minimum Amount of Damage Dealt to Bob,Hard,38.18,https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/
+3245,Alternating Groups III,Hard,15.13,https://leetcode.com/problems/alternating-groups-iii/
+3214,Year on Year Growth Rate,Hard,52.21,https://leetcode.com/problems/year-on-year-growth-rate/
+3244,Shortest Distance After Road Addition Queries II,Hard,25.69,https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/
+3188,Find Top Scoring Students II,Hard,39.7,https://leetcode.com/problems/find-top-scoring-students-ii/
+3219,Minimum Cost for Cutting Cake II,Hard,54.61,https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/
+3329,Count Substrings With K-Frequency Characters II,Hard,69.8,https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/
+3313,Find the Last Marked Nodes in Tree,Hard,52.16,https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/
+3213,Construct String with Minimum Cost,Hard,19.18,https://leetcode.com/problems/construct-string-with-minimum-cost/
+3235,Check if the Rectangle Corner Is Reachable,Hard,25.79,https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/
+3225,Maximum Score From Grid Operations,Hard,24.22,https://leetcode.com/problems/maximum-score-from-grid-operations/
+3209,Number of Subarrays With AND Value of K,Hard,33.86,https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/
+3156,Employee Task Duration and Concurrent Tasks,Hard,42.64,https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks/
+3193,Count the Number of Inversions,Hard,27.87,https://leetcode.com/problems/count-the-number-of-inversions/
+3197,Find the Minimum Area to Cover All Ones II,Hard,28.71,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/
+3229,Minimum Operations to Make Array Equal to Target,Hard,38.87,https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/
+3177,Find the Maximum Length of a Good Subsequence II,Hard,23.97,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/
+3141,Maximum Hamming Distances,Hard,46.81,https://leetcode.com/problems/maximum-hamming-distances/
+3181,Maximum Total Reward Using Operations II,Hard,20.67,https://leetcode.com/problems/maximum-total-reward-using-operations-ii/
+3203,Find Minimum Diameter After Merging Two Trees,Hard,57.38,https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
+3187,Peaks in Array,Hard,25.79,https://leetcode.com/problems/peaks-in-array/
+3171,Find Subarray With Bitwise OR Closest to K,Hard,29.66,https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/
+3161,Block Placement Queries,Hard,16.88,https://leetcode.com/problems/block-placement-queries/
+3149,Find the Minimum Cost Array Permutation,Hard,23.76,https://leetcode.com/problems/find-the-minimum-cost-array-permutation/
+3165,Maximum Sum of Subsequence With Non-adjacent Elements,Hard,15.43,https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/
+3154,Find Number of Ways to Reach the K-th Stair,Hard,36.17,https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/
+3145,Find Products of Elements of Big Array,Hard,21.79,https://leetcode.com/problems/find-products-of-elements-of-big-array/
+3104,Find Longest Self-Contained Substring,Hard,58.77,https://leetcode.com/problems/find-longest-self-contained-substring/
+3103,Find Trending Hashtags II ,Hard,67.51,https://leetcode.com/problems/find-trending-hashtags-ii/
+3130,Find All Possible Stable Binary Arrays II,Hard,25.92,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/
+3139,Minimum Cost to Equalize Array,Hard,17.72,https://leetcode.com/problems/minimum-cost-to-equalize-array/
+3088,Make String Anti-palindrome,Hard,42.46,https://leetcode.com/problems/make-string-anti-palindrome/
